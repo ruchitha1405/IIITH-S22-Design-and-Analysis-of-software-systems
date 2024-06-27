@@ -1,0 +1,8 @@
+on pressing "d" ,it is not moving to right after some extent.
+shield is not showing up when "space" is pressed sometimes.
+sometimes,the initial score is greater than 0 which is supposed to be 0.
+During boss fight,pressing 'q' is not quitting the game at the momemt.
+when the mando is on top end, it is moving right on long pressing 'w'.
+score is increasing and decreasing abnormally.
+sometimes , it is displaying total lives more than 9 (two digit number).
+no.of lives is decreasing when hitting laser3 sometimes, and sometimes it is not decreasing.
